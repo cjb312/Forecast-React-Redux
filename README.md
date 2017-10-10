@@ -1,4 +1,6 @@
 # Forecast-React-Redux
+https://forecastredux.herokuapp.com/ (Side note: On deployment the googlemapsAPI is encountering an error. It will display on if you run it locally.)
+
 View forecast averages using React, Redux, Googlemaps API, Lodash, React-Sparklelines, and Openweather API.
 
 # Search a desired city
